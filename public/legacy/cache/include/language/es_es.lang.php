@@ -635,6 +635,6 @@ $app_list_strings['day_list'] = array(
     'Saturday' => 'Sabado',
     'Sunday' => 'Domingo',
 );
-
-
+$app_strings['LBL_BULK_ACTION_BUTTON_LABEL'] = 'Acción masiva';
+$app_strings['LBL_BULK_ACTION_BUTTON_LABEL_MOBILE'] = 'Acción';
 
