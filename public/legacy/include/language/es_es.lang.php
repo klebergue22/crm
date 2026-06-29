@@ -249,6 +249,9 @@ $app_strings = array(
     'LBL_JJWG_MAPS_LAT' => 'Latitud',
     'LBL_JJWG_MAPS_GEOCODE_STATUS' => 'Estado de geocodificaciï¿½n',
     'LBL_JJWG_MAPS_ADDRESS' => 'Direcciï¿½n',
+    'LBL_STREET' => 'Calle',
+    'LBL_BILLING_STREET' => 'Calle:',
+    'LBL_SHIPPING_STREET' => 'Calle:',
     'LBL_EMAIL_NON_PRIMARY' => 'Correos no primarios',
     'LBL_LAWFUL_BASIS' => 'Base legal',
     'LBL_DATE_REVIEWED' => 'Fecha de revisiï¿½n de base legal',
@@ -480,6 +483,9 @@ $app_strings = array(
     'LBL_DESCRIPTION' => 'Descripciï¿½n',
     'LBL_EMAIL_PRIMARY' => 'Principal',
     'LBL_EMAIL_PRIM_TITLE' => 'Establecer como direcciï¿½n de correo principal',
+    'LBL_EMAIL_INVALID' => 'No válido',
+    'LBL_EMAIL_OPT_OUT' => 'Excluido',
+    'LBL_EMAIL_OPT_OUT_AND_INVALID' => 'Excluido y no válido',
     'LBL_SELECT_USER_BUTTON_LABEL' => 'Seleccionar usuario',
     'LBL_SELECT_USER_BUTTON_TITLE' => 'Seleccionar usuario',
     'LBL_ACCESSKEY_SELECT_USERS_LABEL' => 'Seleccionar usuario',
@@ -505,8 +511,7 @@ $app_strings = array(
     ),
 );
 
-
-
-
-
+$app_strings['LBL_OPT_IN_INVALID'] = 'No válido';
+$app_strings['LBL_OPT_OUT'] = 'Excluido';
+$app_strings['LBL_INVALID_EMAIL'] = 'No válido';
 
