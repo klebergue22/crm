@@ -169,6 +169,11 @@ $app_list_strings = array(
         'Pending Input' => 'Pendiente',
         'Deferred' => 'Aplazada',
     ),
+    'task_priority_dom' => array(
+        'High' => 'Alta',
+        'Medium' => 'Media',
+        'Low' => 'Baja',
+    ),
     'meeting_status_dom' => array(
         'Planned' => 'Programada',
         'Held' => 'Realizada',
@@ -630,5 +635,6 @@ $app_list_strings['day_list'] = array(
     'Saturday' => 'Sabado',
     'Sunday' => 'Domingo',
 );
+
 
 
