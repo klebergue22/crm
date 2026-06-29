@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 if (!defined('sugarEntry') || !sugarEntry) {
     die('Not A Valid Entry Point');
 }
@@ -158,7 +158,7 @@ $app_list_strings = array(
         'AOS_Quotes' => 'Cotización',
         'AOS_Products' => 'Producto',
     ),    'checkbox_dom' => array(
-        '' => '',
+        ' => ',
         '1' => 'Si',
         '2' => 'No',
     ),
@@ -196,7 +196,7 @@ $app_list_strings = array(
         'Closed Lost' => 'Cerrada perdida',
     ),
     'lead_status_dom' => array(
-        '' => '',
+        ' => ',
         'New' => 'Nuevo',
         'Assigned' => 'Asignado',
         'In Process' => 'En proceso',
@@ -205,7 +205,7 @@ $app_list_strings = array(
         'Dead' => 'Perdido',
     ),
     'opportunity_type_dom' => array(
-        '' => '',
+        ' => ',
         'Existing Business' => 'Negocio existente',
         'New Business' => 'Nuevo negocio',
     ),
@@ -569,4 +569,66 @@ $app_strings = array(
 $app_strings['LBL_OPT_IN_INVALID'] = 'No válido';
 $app_strings['LBL_OPT_OUT'] = 'Excluido';
 $app_strings['LBL_INVALID_EMAIL'] = 'No válido';
+$app_list_strings['dom_cal_weekdays'] = array(
+    '0' => 'Dom',
+    '1' => 'Lun',
+    '2' => 'Mar',
+    '3' => 'Mie',
+    '4' => 'Jue',
+    '5' => 'Vie',
+    '6' => 'Sab',
+);
+
+$app_list_strings['dom_cal_weekdays_long'] = array(
+    '0' => 'Domingo',
+    '1' => 'Lunes',
+    '2' => 'Martes',
+    '3' => 'Miercoles',
+    '4' => 'Jueves',
+    '5' => 'Viernes',
+    '6' => 'Sabado',
+);
+
+$app_list_strings['dom_cal_month'] = array(
+    '0' => '',
+    '1' => 'Ene',
+    '2' => 'Feb',
+    '3' => 'Mar',
+    '4' => 'Abr',
+    '5' => 'May',
+    '6' => 'Jun',
+    '7' => 'Jul',
+    '8' => 'Ago',
+    '9' => 'Sep',
+    '10' => 'Oct',
+    '11' => 'Nov',
+    '12' => 'Dic',
+);
+
+$app_list_strings['dom_cal_month_long'] = array(
+    '0' => '',
+    '1' => 'Enero',
+    '2' => 'Febrero',
+    '3' => 'Marzo',
+    '4' => 'Abril',
+    '5' => 'Mayo',
+    '6' => 'Junio',
+    '7' => 'Julio',
+    '8' => 'Agosto',
+    '9' => 'Septiembre',
+    '10' => 'Octubre',
+    '11' => 'Noviembre',
+    '12' => 'Diciembre',
+);
+
+$app_list_strings['day_list'] = array(
+    'Monday' => 'Lunes',
+    'Tuesday' => 'Martes',
+    'Wednesday' => 'Miercoles',
+    'Thursday' => 'Jueves',
+    'Friday' => 'Viernes',
+    'Saturday' => 'Sabado',
+    'Sunday' => 'Domingo',
+);
+
 

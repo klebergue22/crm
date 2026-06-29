@@ -1,0 +1,60 @@
+﻿<?php
+
+$mod_strings = array(
+    'LBL_MODULE_NAME' => 'Calendario',
+    'LBL_MODULE_TITLE' => 'Calendario',
+    'LBL_USER_CALENDARS' => 'Calendarios de usuarios',
+    'LBL_SHARED_CAL_TITLE' => 'Calendario compartido',
+    'LBL_SETTINGS_DISPLAY_SHARED_CALENDAR_SEPARATE' => 'Calendario compartido separado:',
+);
+
+$mod_list_strings = array(
+    'dom_cal_weekdays' => array(
+        '0' => 'Dom',
+        '1' => 'Lun',
+        '2' => 'Mar',
+        '3' => 'Mie',
+        '4' => 'Jue',
+        '5' => 'Vie',
+        '6' => 'Sab',
+    ),
+    'dom_cal_weekdays_long' => array(
+        '0' => 'Domingo',
+        '1' => 'Lunes',
+        '2' => 'Martes',
+        '3' => 'Miercoles',
+        '4' => 'Jueves',
+        '5' => 'Viernes',
+        '6' => 'Sabado',
+    ),
+    'dom_cal_month' => array(
+        '0' => '',
+        '1' => 'Ene',
+        '2' => 'Feb',
+        '3' => 'Mar',
+        '4' => 'Abr',
+        '5' => 'May',
+        '6' => 'Jun',
+        '7' => 'Jul',
+        '8' => 'Ago',
+        '9' => 'Sep',
+        '10' => 'Oct',
+        '11' => 'Nov',
+        '12' => 'Dic',
+    ),
+    'dom_cal_month_long' => array(
+        '0' => '',
+        '1' => 'Enero',
+        '2' => 'Febrero',
+        '3' => 'Marzo',
+        '4' => 'Abril',
+        '5' => 'Mayo',
+        '6' => 'Junio',
+        '7' => 'Julio',
+        '8' => 'Agosto',
+        '9' => 'Septiembre',
+        '10' => 'Octubre',
+        '11' => 'Noviembre',
+        '12' => 'Diciembre',
+    ),
+);
