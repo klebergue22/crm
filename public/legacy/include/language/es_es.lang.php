@@ -348,7 +348,8 @@ $app_strings = array(
     'MSG_LIST_VIEW_NO_RESULTS' => 'No se encontraron resultados para <item1>',
     'MSG_LIST_VIEW_NO_RESULTS_SUBMSG' => 'Crear <item1> como un nuevo <item2>',
     'LBL_CLEAR_FILTER' => 'Limpiar filtro',
-    'LBL_QUICK_FILTERS' => 'Filtros rapidos',
+    'LBL_QUICK_FILTERS' => 'Filtros rápidos',
+    'LBL_BASIC_FILTER' => 'Filtro básico',
     'LBL_LOAD_MORE' => 'Cargar mas',
     'LBL_LIST' => 'Lista',
     'LBL_FILENAME' => 'Archivo',
@@ -637,4 +638,14 @@ $app_list_strings['day_list'] = array(
 );
 $app_strings['LBL_BULK_ACTION_BUTTON_LABEL'] = 'Acción masiva';
 $app_strings['LBL_BULK_ACTION_BUTTON_LABEL_MOBILE'] = 'Acción';
+
+$app_strings['LBL_FILTER'] = 'Filtro';
+$app_strings['LBL_FILTER_HEADER_TITLE'] = 'Filtro';
+$app_strings['LBL_FILTER_MODULES'] = 'Filtrar módulos';
+$app_strings['LBL_QUICK_FILTER'] = 'Filtro rápido';
+$app_strings['LBL_QUICK_FILTERS'] = 'Filtros rápidos';
+$app_strings['LBL_ADVANCED_SEARCH'] = 'Filtro avanzado';
+$app_strings['LBL_BASIC_FILTER'] = 'Filtro básico';
+$app_strings['LBL_SEARCH'] = 'Buscar';
+$app_strings['LBL_CLEAR'] = 'Limpiar';
 
